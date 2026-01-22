@@ -1,3 +1,6 @@
+//4N
+
+
 package kolokwium;
 import javax.swing.*;
 import java.awt.*;
